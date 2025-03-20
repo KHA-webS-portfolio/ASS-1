@@ -14,7 +14,7 @@ kernelspec:
 ---
 
 # Les listes
-
+Khadija IDHSAINE
 ```{admonition} Définition
 
 Une liste est une collection ordonnée de valeurs.
